@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+.avatar {
+  border-radius: 50%;
+  margin-left: 200px;
+  margin-right: 300px;
+  padding-right: 200px;
 }
