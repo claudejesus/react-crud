@@ -1,0 +1,100 @@
+.component1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .frame92 {
+    height: 16.41%;
+    margin-bottom: 70px;
+    padding: 0 251.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+  }
+  .hotOffers {
+    font-family: "Nunito";
+    font-size: 50px;
+    font-weight: 800;
+    line-height: normal;
+    color: rgba(162, 0, 0, 1);
+    font-style: italic;
+    text-align: center;
+  }
+  .frame93 {
+    width: 37.93%;
+    height: 66.7%;
+    margin-left: 147px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .resetNewPassword {
+    height: 37px;
+    width: 205px;
+    font-family: "Nunito";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    margin-bottom: 46px;
+  }
+  .input {
+    margin-bottom: 20px;
+    position: relative;
+  }
+  .rectangle2 {
+    width: 276px;
+    height: 30.01px;
+    background-color: rgba(217, 217, 217, 0);
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 1px solid rgba(0, 0, 0, 1);
+  }
+  .email {
+    height: 33.12px;
+    width: 278px;
+    font-family: "Nunito";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .createPassword {
+    height: 33.12px;
+    width: 278px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .frame89 {
+    background-color: rgba(162, 0, 0, 1);
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 14px;
+    width: 266px;
+  }
+  .submit {
+    font-family: "Nunito";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 1.2px;
+  }

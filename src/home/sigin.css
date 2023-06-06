@@ -1,0 +1,243 @@
+.signin {
+    background-color: rgba(246, 246, 246, 1);
+    overflow: hidden;
+    padding: 11px 30px 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .nav {
+    margin-bottom: 54px;
+    display: flex;
+    align-items: center;
+  }
+  .logoRemovebgPreview1 {
+    width: 270px;
+    height: 55px;
+    margin-right: 703px;
+  }
+  .group2 {
+    margin-right: 18px;
+    display: flex;
+    align-items: center;
+  }
+  .vector {
+    width: 18.29%;
+    height: 75%;
+    margin-right: 6px;
+  }
+  .english {
+    font-family: "Nunito Sans";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-right: 4px;
+  }
+  .vector1 {
+    width: 5px;
+    height: 2.5px;
+  }
+  .group3 {
+    background-color: rgba(162, 0, 0, 1);
+    border-radius: 5px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .home {
+    height: 26px;
+    width: 67px;
+    font-family: "Nunito Sans";
+    font-size: 10px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .relativeWrapperOne {
+    margin-bottom: 53px;
+    margin-left: 390px;
+    position: relative;
+  }
+  .group27 {
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    padding: 39px 17px 43px 16px;
+    box-shadow: 2px 5px 15px 0 rgba(0, 0, 0, 0.38);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .group28 {
+    margin-bottom: 212px;
+    margin-left: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .login {
+    width: 68px;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+  }
+  .rectangle87 {
+    width: 39px;
+    height: 2px;
+    background-color: rgba(162, 0, 0, 1);
+    border-radius: 10px;
+  }
+  .button {
+    background-color: rgba(162, 0, 0, 1);
+    margin-bottom: 22px;
+    border-radius: 5px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .signIn {
+    height: 38px;
+    width: 327px;
+    font-family: "Nunito Sans";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .group29 {
+    margin-left: 41px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .youDontHaveAnAccount {
+    font-family: "Nunito";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(179, 179, 179, 1);
+    text-align: center;
+    margin-right: 6px;
+  }
+  .signUp {
+    font-family: "Nunito";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(162, 0, 0, 1);
+    text-align: center;
+  }
+  .forgotPassword {
+    font-family: "Nunito";
+    font-size: 15px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(162, 0, 0, 1);
+    text-align: center;
+    position: absolute;
+    right: 17px;
+    bottom: 143px;
+  }
+  .rememberMe {
+    font-family: "Nunito";
+    font-size: 11px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    position: absolute;
+    left: 30px;
+    bottom: 147px;
+  }
+  .inputField {
+    position: absolute;
+    left: 16px;
+    top: 103px;
+  }
+  .passwordInputField {
+    position: absolute;
+    left: 16px;
+    bottom: 179px;
+  }
+  .rectangle95 {
+    width: 7px;
+    height: 8px;
+    background-color: rgba(217, 217, 217, 0);
+    border-radius: 2px;
+    position: absolute;
+    left: 16px;
+    bottom: 149px;
+    border: 1px solid rgba(0, 0, 0, 1);
+  }
+  .group30 {
+    margin-left: 467px;
+    display: flex;
+    align-items: center;
+  }
+  .copyright {
+    font-family: "Nunito";
+    font-size: 12px;
+    font-weight: 300;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    &:not(:last-of-type) {
+      margin-right: 9px;
+    }
+  }
+  .line1 {
+    width: 0.5px;
+    height: 15px;
+    background-color: rgba(0, 0, 0, 1);
+    margin-right: 8.5px;
+  }
+  .group26 {
+    padding: 32px 31px 0 0;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: -126px;
+    bottom: -124px;
+  }
+  .ellipse1 {
+    width: 200px;
+    height: 197px;
+    background-color: rgba(162, 0, 0, 1);
+    border-radius: 50%;
+    position: relative;
+  }
+  .ellipse2 {
+    width: 61px;
+    height: 63px;
+    background-color: rgba(162, 0, 0, 1);
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .group31 {
+    padding: 32px 31px 0 0;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    right: -155px;
+    bottom: -68px;
+  }
+  .ellipse2Two {
+    width: 61px;
+    height: 63px;
+    background-color: rgba(162, 0, 0, 1);
+    border-radius: 50%;
+    position: absolute;
+    left: 170px;
+    top: 0;
+  }
