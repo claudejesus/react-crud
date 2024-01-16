@@ -59,7 +59,7 @@ const RecentSchoolAtendanc = styled('div')(({ theme }) => ({
   letterSpacing: `1.2288646697998047px`,
   textDecoration: `none`,
   lineHeight: `129.99999523162842%`,
-  textTransform: `none`,
+  textTransform: `none`, 
   position: `absolute`,
   left: `283px`,
   top: `285px`,
